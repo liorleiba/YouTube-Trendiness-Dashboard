@@ -5,4 +5,5 @@ There are two versions of this presentation in the current folder, `PowerPoint` 
 1. The original `PowerPoint` presentation's attached charts were embedded directly from Tableau, ***thus all of its visualizations are <ins>interactive</ins>***.
 2. The `PDF` version does not support the interactiveness hence the embedded charts will function as static charts in it.
 
-###### ***In order to activate interactiveness with the embedded charts - Left click a chart inside a slide.<br> All other Tableau controls like zooming in/out (CTRL + Mousewheel) are functioning exactly the same as they function while interacting with Tableau dashboards.***
+###### ***In order to activate interactiveness with the embedded charts - Left click a chart inside a slide.<br> All other Tableau controls like zooming in/out (CTRL + Mousewheel) are functioning exactly the same as they function while interacting with Tableau dashboards.***<br>
+***In case there's a problem to use the interactive features of the PowerPoint version, please install Tableau's supportive Add-In for Microsoft Office, `VizSlides`.***
