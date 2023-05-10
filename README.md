@@ -9,6 +9,9 @@ A Tableau dashboard that monitors historical data of YouTube videos "trendiness"
     - [A Practicum DA project](#the-project-was-made-as-part-of-practicums-data-analytics-program)<br>
 - [Used Technology](#used-technology)<br>
 - [Features & Plots](#features--plots)
+    - [The Trending History charts (Absolute & Relative)](#1-the-trending-history-charts-absolute--relative)
+    - [The Trending Vids by Country chart](#2-the-trending-vids-by-country-chart)
+    - [The Trending by Country & Category highlight table](#3-the-trending-by-country--category-highlight-table)
 
 
 ---
@@ -43,8 +46,7 @@ The dashboard contains 4 charts which visualize the YouTube Trendiness data:
     <div style="padding-top: 10;">
         <code>Trending Vids by Country</code> is a pie chart which displays the shares of the different regions' published videos to YouTube.<br>
         <b><i>Optionable Filters:</i></b> Date, Selected countries, Selected categories.<br><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src='/images/Pie-Chart_Vids-By-Country.png' alt='Screenshot of the `Trending Vids by Country` pie chart' width=500 height=479.4>
+        <img src='/images/Pie-Chart_Vids-By-Country.png' alt='Screenshot of the `Trending Vids by Country` pie chart' width=500 height=479.4 align='center'>
 </details>
 
 <details>
@@ -53,8 +55,7 @@ The dashboard contains 4 charts which visualize the YouTube Trendiness data:
         <code>Trending by Country & Category</code> is a highlight table visualization which displays the shares of the different regions' published videos from the total videos a specific genre has in YouTube.<br>
         By default it displays the absolute numbers, yet you can use the <code><i>Show Values As</i></code> filter to toggle into relative values presented as floats.<br>
         <b><i>Optionable Filters:</i></b> Date, Selected countries, Selected categories, Show Values As (Absolute/Relative).<br><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src='/images/HLTable_Trending-by-Country%26Category.png' alt='Screenshot of the `Trending Vids by Country` pie chart' width=629 height=418.5>
+        <img src='/images/HLTable_Trending-by-Country%26Category.png' alt='Screenshot of the `Trending Vids by Country` pie chart' width=629 height=418.5 align='center'>
 </details><br>
     
 ###### [⭱ Back to Top](#youtube-historical-trendiness-dashboard)
