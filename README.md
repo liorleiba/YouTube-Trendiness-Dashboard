@@ -56,6 +56,6 @@ The dashboard contains 4 charts which visualize the YouTube Trendiness data:
         By default it displays the absolute numbers, yet you can use the <code><i>Show Values As</i></code> filter to toggle into relative values presented as floats.<br>
         <b><i>Optionable Filters:</i></b> Date, Selected countries, Selected categories, Show Values As (Absolute/Relative).<br><br>
         <img src='/images/HLTable_Trending-by-Country%26Category.png' alt='Screenshot of the `Trending Vids by Country` pie chart' width=629 height=418.5 align='center'>
-</details><br>
+</details>
     
 ###### [⭱ Back to Top](#youtube-historical-trendiness-dashboard)
